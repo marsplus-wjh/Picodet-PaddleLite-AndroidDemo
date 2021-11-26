@@ -1,5 +1,5 @@
 # Picodet-PaddleLite-AndroidDemo
-    本项目使用百度自研 PP-PicoDet 模型，通过 PaddleLite 部署方式，将 Paddle Detection 中原 Android APP 的 Demo 应用更换为 PicoDet 模型，并修改了前后处理模块。
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目使用百度自研 PP-PicoDet 模型，通过 PaddleLite 部署方式，将 Paddle Detection 中原 Android APP 的 Demo 应用更换为 PicoDet 模型，并修改了前后处理模块。
   原项目地址：[Paddle-Detection-Android-Demo](PaddleDetection/static/deploy/android_demo/README.md)
 
 ### 更换模型步骤：<br>
