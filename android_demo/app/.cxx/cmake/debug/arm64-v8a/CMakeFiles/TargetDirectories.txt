@@ -1,0 +1,3 @@
+/Users/wangjiahui/Desktop/android_demo_ori2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/wangjiahui/Desktop/android_demo_ori2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/wangjiahui/Desktop/android_demo_ori2/app/.cxx/cmake/debug/arm64-v8a/CMakeFiles/Native.dir
